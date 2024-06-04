@@ -1,0 +1,29 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    overflow-x: hidden;
+}
+.Ele-color{
+    color:#ff5555;
+}
+.background-spot{
+    background-image: url("./assets/background-color-spot.svg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+#mobile-Frame-2{
+    z-index: -1;
+    margin-top: -110%;
+ }
+#mobile-Frame-3{
+   z-index: -1;
+   margin: -140% 0% 0% -10%;
+}
+#users-img{
+    width: 95%;
+    margin-top: -10%;
+}
+#frequently-background{
+    background-color: #ff5555;
+}
